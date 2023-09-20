@@ -77,19 +77,20 @@ To use this platform, follow these steps:
     Click the "Send Transaction" button to sign and send an Ethereum blockchain transaction that pays the hired candidate. 
 
 5. **Inspect the Transaction:**  
-     
-    Navigate to the Transactions section of Ganache. You can check your address balance and history on Ganache:  
 
-    <img src="Images/MyAddressBalance.png" alt="Address Balance and History on Ganache" width="1000" height="400">
+    In the Accounts section of Ganache check your address balance:
+
+    <img src="Images/MyAddressBalance.png" alt="Address Balance and History on Ganache" width="700" height="80">
+
+    Navigate to the Transactions section of Ganache. You can check your address history on Ganache:  
+
+    <img src="Images/TransactionHistory.png" alt="Address Balance and History on Ganache" width="850" height="350">
 
 
-    Transaction details on Ganache:
+    Click on the transaction and see the transaction details:
 
-    <img src="Images/TransactionDetails.png" alt="Transaction details on Ganache" width="1000" height="400">
+    <img src="Images/TransactionDetails.png" alt="Transaction details on Ganache" width="800" height="200">
 
-    Return to the original transaction, and click the transaction’s To address. Screenshot of the recipient’s address balance and history in the Ganache application:
-
-    <img src="Images/RecipientAddressBalance.png" alt="Recipient’s address balance and history on Ganache" width="1000" height="400">
 
 ---
 
