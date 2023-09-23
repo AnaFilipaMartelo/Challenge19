@@ -69,7 +69,7 @@ To use this platform, follow these steps:
    
     In the Streamlit interface, select the person you would like to hire from the drop-down menu and insert the number of hours that you would like to hire them for. Note the person's name, hourly rate, and total wage in Ether displayed as demonstrated below: 
 
-    <img src="Images/Screenshot1.png" alt="Screenshot 1 of the Streamlit application page" width="800" height="750">
+    <img src="Images/Screenshot.png" alt="Screenshot 1 of the Streamlit application page" width="800" height="750">
 
 
 5. **Send Transaction:** 
