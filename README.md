@@ -34,6 +34,7 @@ Open your terminal and run the following command to install project dependencies
 ```bash
 pip install -r requirements.txt
 ```
+Also install [Ganache](https://trufflesuite.com/ganache/): A personal blockchain for Ethereum development.
 
 ---
 
